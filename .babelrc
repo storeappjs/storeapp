@@ -1,0 +1,4 @@
+{
+  "presets": [["@babel/env", { "modules": false }], "@babel/typescript", ["@babel/preset-env"]],
+  "plugins": ["babel-plugin-dynamic-import-webpack"]
+}

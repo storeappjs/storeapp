@@ -1,0 +1,16 @@
+{
+  "name": "storeappjs",
+  "description": "OpenSource Application Store",
+  "version": "0.0.6",
+  "dependencies": {
+    "@otox/cli-helper": "^0.0.7",
+    "@storeapp/downloader": "^0.0.1",
+    "@storeapp/types": "^0.0.0",
+    "colors": "^1.4.0",
+    "got": "^11.8.3",
+    "rimraf": "^3.0.2"
+  },
+  "bin": {
+    "storeapp": "./dist/bin.js"
+  }
+}
