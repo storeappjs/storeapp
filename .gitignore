@@ -127,3 +127,4 @@ dist
 .pnp.*
 
 site/backend/config.ts
+site/backend/
