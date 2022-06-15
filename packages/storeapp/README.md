@@ -6,3 +6,21 @@
     <a href="https://storeappjs.netlify.app/documents/intro">📃 Documents</a>
   </div>
 </div>
+
+---
+
+## 🦄 How Does It works?
+
+Storeapp uses github as its application repository.
+So it clones the github repository and build the application.
+
+## Usage
+
+```bash
+$ npm install -g storeappjs # with npm
+$ yarn global add storeappjs # with yarn
+```
+
+```bash
+$ storeapp -v
+```
