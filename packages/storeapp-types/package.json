@@ -2,5 +2,10 @@
   "name": "@storeapp/types",
   "version": "0.0.0",
   "description": "Types for storeappjs",
-  "types": "./global.d.ts"
+  "types": "./global.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storeappjs/storeapp"
+  },
+  "homepage": "https://storeappjs.netlify.app"
 }
