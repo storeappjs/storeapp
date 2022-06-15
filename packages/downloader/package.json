@@ -1,9 +1,14 @@
 {
   "name": "@storeapp/downloader",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "zip file downloader",
   "types": "./types",
   "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storeappjs/storeapp"
+  },
+  "homepage": "https://storeappjs.netlify.app",
   "files": [
     "dist",
     "types"
