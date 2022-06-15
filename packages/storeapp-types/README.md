@@ -1,5 +1,7 @@
 # storeapp-types
 
+[See Documentation!](https://storeappjs.netlify.app/documents/packages/types)
+
 ```ts
 import type { ApplicationConfig } from '@storeapp/types';
 ```
