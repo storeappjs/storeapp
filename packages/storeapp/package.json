@@ -1,17 +1,17 @@
 {
   "name": "storeappjs",
   "description": "OpenSource Application Store",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/storeappjs/storeapp"
   },
+  "homepage": "https://storeappjs.netlify.app",
   "keywords": [
     "storeapp",
     "storeappjs",
     "appstore"
   ],
-  "homepage": "https://storeappjs.netlify.app",
   "dependencies": {
     "@otox/cli-helper": "^0.0.7",
     "@storeapp/downloader": "^0.0.1",
