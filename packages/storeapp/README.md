@@ -9,7 +9,7 @@
 
 ---
 
-## 🦄 How Does It works?
+## 🦄 How Does It work?
 
 Storeapp uses github as its application repository.
 So it clones the github repository and build the application.
