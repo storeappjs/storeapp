@@ -1,7 +1,13 @@
 {
   "name": "storeappjs",
   "description": "OpenSource Application Store",
-  "version": "0.2.1",
+  "version": "0.3.0",
+  "main": "./dist/index.js",
+  "files": [
+    "types",
+    "dist"
+  ],
+  "types": "./types",
   "repository": {
     "type": "git",
     "url": "https://github.com/storeappjs/storeapp"
